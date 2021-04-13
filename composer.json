@@ -1,0 +1,5 @@
+{
+	"name" : "wso2is auth plugin",
+	"description" : "Oauth2/OpenID Authentication handler for the REST API.Tested with WSO2 Identity Server",
+	"type" : "wordpress-plugin"
+}
