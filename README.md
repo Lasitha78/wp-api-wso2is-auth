@@ -1,6 +1,6 @@
 # OAuth2/OpenID Based Authentication handler for Wordpress REST API
 
-Wordpress REST API authentication with WSO2 Identity server (OAuth2/OpenID)
+Wordpress REST API authentication with [WSO2 Identity server](https://wso2.com/identity-and-access-management/) (OAuth2/OpenID)
 
 This plugin adds wordpress REST API based on extrenal Identity Server and i have tested with WSO2 Identity Server but this wil work with other identity servers with minimum changes. This has been built as a demo version for one of my developmet team and i am publishing this here in order to share the code who ever searching for this kind of a requirnment. 
 
