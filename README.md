@@ -18,8 +18,8 @@ Navigate to the settings->OAuth2/OpenID section and set following parameters
 
 * Userinfo Endpoint - WSO2 Identity Server Userinfo endpoint
 * Token Validation Endpoint - WSO2 Identity Server introspect endpoint
-* Username - WSO2 Identity Server admn user username
-* Password - WSO2 Identity Server admn user password
+* Username - WSO2 Identity Server admin user username
+* Password - WSO2 Identity Server admin user password
 * Skip SSL Verification - Skip SSL Validations in DEV mode
 
 
